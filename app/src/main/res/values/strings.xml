@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">google map activity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="lenth">23.89346915930479</string>
+    <string name="longsssss">90.40219119459906</string>
+    <string name="title_activity_user_locations">User_locations</string>
+
+
+</resources>
